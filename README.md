@@ -1,0 +1,2 @@
+# Diferencas-salariais-no-mercado-de-trabalh-do-Rio-Grande-do-Sul
+Utilizando os microdados da RAIS este trabalho foi elaborado com o objetivo de analisar os determinantes socioeconômicos e demográficos das diferenças salariais no mercado de trabalho formal do Rio Grande do Sul, considerando o período de 2000 a 2017. Para captar os efeitos de fatores individuais na distribuição condicional dos salários, estimou-se a equação minceriana de salários pelo método de Mínimos Quadrados Ordinários (MQO) e também por meio de regressão quantílica . 
