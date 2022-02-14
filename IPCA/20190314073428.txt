@@ -1,0 +1,27 @@
+Variação acumulada no ano durante o Plano Real	Brasil
+199512#dezembro 1995	22.41
+199612#dezembro 1996	9.56
+199712#dezembro 1997	5.22
+199812#dezembro 1998	1.65
+199912#dezembro 1999	8.94
+200012#dezembro 2000	5.97
+200112#dezembro 2001	7.67
+200212#dezembro 2002	12.53
+200312#dezembro 2003	9.3
+200412#dezembro 2004	7.6
+200512#dezembro 2005	5.69
+200612#dezembro 2006	3.14
+200712#dezembro 2007	4.46
+200812#dezembro 2008	5.9
+200912#dezembro 2009	4.31
+201012#dezembro 2010	5.91
+201112#dezembro 2011	6.5
+201212#dezembro 2012	5.84
+201312#dezembro 2013	5.91
+201412#dezembro 2014	6.41
+201512#dezembro 2015	10.67
+201612#dezembro 2016	6.29
+201712#dezembro 2017	2.95
+201812#dezembro 2018	3.75
+
+Fonte: "IBGE - Índice Nacional de Preços ao Consumidor Amplo"
